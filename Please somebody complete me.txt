@@ -1,0 +1,26 @@
+Playlists	On The Go
+Browse		Artists 
+		Albums 
+		Songs
+		Genres
+		System 
+Last Played
+Settings
+Extra		Clock		Alarm Clock	Alarm	(On or off)
+						Time
+						Sound
+				Sleep and Timer
+				Date & Time
+		Contacts	Name:	Name	Description	Telephone	Email	Address
+		Calender	All:	Big Calender
+				To do
+				Alarms
+		Notes		Name:	Contents
+		Games		Brick
+				Parachute
+				Solitaire
+Backlight	On Color
+		Off Color
+		Sleep Timer
+
+And send to techni@sailormoon.com
